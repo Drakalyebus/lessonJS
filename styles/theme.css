@@ -1,0 +1,13 @@
+*{
+    text-align: center;
+    color: black;
+    font-weight: 900;
+    font-family: 'Courier New', Courier, monospace;
+}
+body{
+    background-image: url("../assets/background.jpg");
+    background-position-x: center;
+    background-position-y: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
